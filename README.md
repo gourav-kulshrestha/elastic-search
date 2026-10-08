@@ -2,11 +2,6 @@
 
 A scalable Products Search built with Laravel, MySQL, Redis, and Elasticsearch. The project provides high-performance product search, filtering, caching, and asynchronous indexing.
 
-## 🌐 Live Demo
-
-**Demo URL:**  
-https://mediumseagreen-rook-673608.hostingersite.com
-
 ## Tech Stack
 
 - Laravel 13
@@ -52,7 +47,7 @@ https://mediumseagreen-rook-673608.hostingersite.com
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yogender-kulshrestha/elastic-search.git
+git clone https://github.com/gourav-kulshrestha/elastic-search.git
 
 cd elastic-search
 ```
@@ -178,8 +173,7 @@ This project is developed for learning and demonstration purposes.
 
 ## Author
 
-**Yogender Kulshrestha**
+**Gourav Kulshrestha**
 
-Backend Developer
 
 Laravel | PHP | MySQL | Redis | Elasticsearch | REST APIs
